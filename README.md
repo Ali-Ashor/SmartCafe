@@ -141,7 +141,7 @@ Total: $10.5
 
 ## 📸 Screenshots
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d448c414-55cd-41a1-92ba-5c8bc9c9d4a8" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2364029e-9378-4aaa-b879-ff8c0c7cb650" />
 
 
 ---
