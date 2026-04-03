@@ -23,7 +23,7 @@ This project is developed as part of the **Software Construction and Development
 
 ```
 SmartCafe/
-│── main.py          # Main program file
+│── SmartCafe.py          # Main program file
 │── README.md        # Project documentation
 ```
 
@@ -91,14 +91,14 @@ Represents a customer placing an order.
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/your-username/SmartCafe.git
+git clone https://github.com/Ali-Ashor/SmartCafe.git
 cd SmartCafe
 ```
 
 ### 2. Run Program
 
 ```
-python main.py
+python SmartCafe.py
 ```
 
 ---
