@@ -149,7 +149,7 @@ Total: $10.5
 ## 👨‍🎓 Author
 
 **Shujaat Ali**
-BS Computer Science – Semester 5
+BS Software Engineering – Semester 5
 
 ---
 
