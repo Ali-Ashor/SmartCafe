@@ -141,7 +141,8 @@ Total: $10.5
 
 ## 📸 Screenshots
 
-*Add screenshots of your program output here*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d448c414-55cd-41a1-92ba-5c8bc9c9d4a8" />
+
 
 ---
 
